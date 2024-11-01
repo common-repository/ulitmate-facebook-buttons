@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+/**
+  * Customize FB Buttons
+  * CSS
+  */
+ ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin:0 !important;
+}
+li {
+ list-style: none;   
+ display: inline-block;
+    padding: 0px 9px;
+}
+li.fb_page {
+    vertical-align: -webkit-baseline-middle;
+}
+img {margin-bottom: 0px !important;}
